@@ -5,6 +5,16 @@ data analysis, and reproducible research practices. The projects reflect applica
 psychology, cognitive science, and related fields, with an emphasis on both methodological 
 rigour and clear communication of results.
 
+---
+
+## ⚠️ Viewing Reports  
+
+Please note: GitHub does not render `.html` files directly in the browser.  
+To view the analysis reports:  
+1. Download the desired `.html` file to your computer.  
+2. Open it in any web browser (e.g., Chrome, Firefox, Edge, Safari).  
+
+
 ## Focus Areas
 - Data wrangling, visualisation, and reporting with the **tidyverse**  
 - Generalised Linear Mixed Models (**GLMMs**) and multilevel modelling  
